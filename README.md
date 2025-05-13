@@ -13,8 +13,8 @@ This project highlights cloud hosting using two platforms:
 - ✅ **Previously hosted on Microsoft Azure** (Static Web App)
 - ✅ **Now hosted on Netlify** (for simplicity and GitHub integration)
 
-## 🌐 Live Site
-👉 
+## 🌐 Live Site (on netlify)
+👉 https://landing-page-is-here1.netlify.app/
 
 ## 🛠️ Technologies Used
 - HTML5
