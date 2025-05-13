@@ -22,7 +22,7 @@ This project highlights cloud hosting using two platforms:
 - Microsoft Azure (initial deployment)
 - Netlify (current live hosting)
 
-## 📷 Screenshots
+## 📷 Screenshots (of Azure portal)
 ![Landing Page Screenshot](Screenshot.png)
 
 
