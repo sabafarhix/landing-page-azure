@@ -23,7 +23,7 @@ This project highlights cloud hosting using two platforms:
 - Netlify (current live hosting)
 
 ## 📷 Screenshots
-![Landing Page Screenshot](images/screenshot.png)
+![Landing Page Screenshot](Screenshot.png)
 
 
 
